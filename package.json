@@ -1,0 +1,23 @@
+{
+  "name": "todo_list",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "ckeditor": "^4.12.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.1",
+    "express": "~4.16.1",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "mongodb": "^4.8.0",
+    "morgan": "~1.9.1",
+    "nodemailer": "^6.7.7",
+    "nodemon": "^2.0.19"
+  }
+}
